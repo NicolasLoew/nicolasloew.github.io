@@ -3,4 +3,4 @@ Media files from this projected are retrieved from Unsplash servers. Please see 
 
 
 The folder "website preview images" is not essential to the website and is meant to give you a quick preview of how this site looks like.
-It can be deleted.
+It can be deleted if you want.
